@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=AtillaPoyraz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AtillaPoyraz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtillaPoyraz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtillaPoyraz&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AtillaPoyraz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
