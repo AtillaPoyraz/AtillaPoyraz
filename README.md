@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Swift & Kotlin<br><br>
+🌱 I’m currently learning Swift <br><br>
 
 
 ## 🌐 Socials:
