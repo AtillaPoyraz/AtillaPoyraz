@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Swift <br><br>
+🌱 I’m currently learning C# & Unity <br><br>
 
 
 ## 🌐 Socials:
